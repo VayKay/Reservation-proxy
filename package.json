@@ -23,5 +23,8 @@
     "http": "0.0.0",
     "http-proxy": "^1.17.0",
     "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "newrelic": "^5.11.0"
   }
 }
